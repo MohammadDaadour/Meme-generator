@@ -33,7 +33,7 @@ const AboutPage = () => {
             هتكتب اللي انت عاوزه و تضغط set و تستني ثانية و بعدها تقدر تحمل
             الميم اللي انت عامله
           </p>
-          <div className="p-10 w-[400px] sm:w-[500px] m-0 sm:mr-2">
+          <div className="p-10 w-[300px] sm:w-[500px] m-0 sm:mr-2">
             <img
               className="border w-[400px] relative right-16 top-6"
               src={generate}
