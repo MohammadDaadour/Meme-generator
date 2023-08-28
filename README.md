@@ -1,5 +1,5 @@
 # Website Preview
-https://incomparable-lamington-8a9a72.netlify.app/
+click here: https://incomparable-lamington-8a9a72.netlify.app/ to visit the website.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
